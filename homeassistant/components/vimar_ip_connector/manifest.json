@@ -1,0 +1,15 @@
+{
+  "domain": "vimar_ip_connector",
+  "name": "Vimar IP Connector",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/vimar_ip_connector",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": ["_vimar-devctrl._tcp.local."],
+  "homekit": {},
+  "dependencies": ["zeroconf"],
+  "codeowners": [
+    "@enrico1036"
+  ],
+  "iot_class": "local_push"
+}

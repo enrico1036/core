@@ -341,6 +341,7 @@ FLOWS = [
     "vesync",
     "vicare",
     "vilfo",
+    "vimar_ip_connector",
     "vizio",
     "vlc_telnet",
     "volumio",

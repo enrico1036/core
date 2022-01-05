@@ -331,6 +331,11 @@ ZEROCONF = {
             "domain": "apple_tv"
         }
     ],
+    "_vimar-devctrl._tcp.local.": [
+        {
+            "domain": "vimar_ip_connector"
+        }
+    ],
     "_viziocast._tcp.local.": [
         {
             "domain": "vizio"

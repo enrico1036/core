@@ -1011,6 +1011,8 @@ homeassistant/components/vicare/* @oischinger
 tests/components/vicare/* @oischinger
 homeassistant/components/vilfo/* @ManneW
 tests/components/vilfo/* @ManneW
+homeassistant/components/vimar_ip_connector/* @enrico1036
+tests/components/vimar_ip_connector/* @enrico1036
 homeassistant/components/vivotek/* @HarlemSquirrel
 homeassistant/components/vizio/* @raman325
 tests/components/vizio/* @raman325
